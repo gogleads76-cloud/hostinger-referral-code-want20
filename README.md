@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Hostinger Referral Link and Code WANT20 – Get 20% Discount on All Hosting Plans">
-<title>Hostinger Referral Link and Code WANT20 – Get 20% Discount on All Hosting Plans</title>
-</head>
-
-<body>
-
 <main class="article-container">
 <article class="article-content">
 
@@ -277,6 +266,3 @@ Get an instant 20% discount on your first Hostinger purchase using the Hostinger
 
 </article>
 </main>
-
-</body>
-</html>
