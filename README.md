@@ -39,7 +39,7 @@
 <div class="verification-image">
     <p>Hostinger Referral Page Showing 20% OFF</p>
     <img
-        src="./REFERRAL LINK SHOWING 20% OFF.webp"
+        src="./REFERRAL%20LINK%20SHOWING%2020%25%20OFF.webp"
         alt="HOSTINGER REFERRAL PAGE SHOWING 20% OFF"
         loading="lazy">
 </div>
