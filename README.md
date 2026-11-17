@@ -5,7 +5,7 @@
 
 <div class="quick-answer">
 <strong>Quick Answer:</strong>
-Get an instant 20% discount on your first Hostinger purchase using the Hostinger Referral Link and Code WANT20. Visit the official Hostinger website through our verified referral link (https://www.hostinger.com/in?REFERRALCODE=WANT20), choose any Hostinger hosting plan, and enjoy 20% OFF your first subscription term. The discount is automatically applied during checkout.
+<p>Get an instant 20% discount on your first Hostinger purchase using the Hostinger Referral Link and Code WANT20. Visit the official Hostinger website through our verified referral link (https://www.hostinger.com/in?REFERRALCODE=WANT20), choose any Hostinger hosting plan, and enjoy 20% OFF your first subscription term. The discount is automatically applied during checkout.</p>
 </div>
 
 <div class="offer-card">
