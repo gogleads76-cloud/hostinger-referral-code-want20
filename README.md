@@ -242,7 +242,6 @@
 <div class="faq-item">
 <h3>What is the official Hostinger Referral Link?</h3>
 <p>You can use the following Hostinger Referral Link to get your 20% discount:</p>
-<a href="https://www.hostinger.com/in?REFERRALCODE=FIRST20">https://www.hostinger.com/in?REFERRALCODE=FIRST20</a>
 </div>
 
 <h2>Final Thoughts – Get 20% OFF with Hostinger Referral Code FIRST20</h2>
@@ -256,8 +255,6 @@
 <div class="final-cta">
 <h2>Claim Your 20% Discount Now!</h2>
 <p><strong>Hostinger Referral Code:</strong> FIRST20</p>
-<p><strong>Hostinger Referral Link:</strong> https://www.hostinger.com/in?REFERRALCODE=FIRST20</p>
-<a class="cta-button" href="https://www.hostinger.com/in?REFERRALCODE=FIRST20" target="_blank" rel="nofollow sponsored noopener">Get 20% OFF Now!</a>
 </div>
 
 </article>
