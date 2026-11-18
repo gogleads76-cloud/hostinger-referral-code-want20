@@ -2,7 +2,13 @@
 <article class="article-content">
 
 <h1>Hostinger Referral Link and Code FIRST20 – Get 20% Discount on All Hosting Plans</h1>
-
+<div class="verification-image">
+    <p>Hostinger Checkout Showing FIRST20 Coupon Applied</p>
+    <img
+        src="./Hostinger Referral Code FIRST20.webp"
+        alt="Hostinger Referral Code"
+        loading="lazy">
+</divv
 <div class="quick-answer">
 <strong>Quick Answer:</strong>
 <p>Get an instant 20% discount on your first Hostinger purchase using the Hostinger Referral Link and Code FIRST20. Visit the official Hostinger website through our verified referral link choose any Hostinger hosting plan, and enjoy 20% OFF your first subscription term. The discount is automatically applied during checkout.</p>
